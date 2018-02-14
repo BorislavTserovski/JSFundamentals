@@ -15,8 +15,7 @@
             startSeconds--;
             let minutes = Math.floor(startSeconds / 60);
             let seconds = startSeconds % 60;
-            box.value = minutes + ':' + (seconds < 10 ? '0' + seconds : seconds);
-
+            box.value = minutes + ':' + (seconds < 10 ? '0' + seconds : sec)
         }, 1000);
     }
 }</script>

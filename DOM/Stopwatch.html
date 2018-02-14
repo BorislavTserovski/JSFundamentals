@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="time" style="border:3px solid blue; text-align:center; font-size:2em; margin-bottom:10px">00:00</div>
+<button id="startBtn">Start</button>
+<button id="stopBtn" disabled="true">Stop</button>
+<script>window.onload = function () {
+    stopwatch();
+}
+
+function stopwatch() {
+
+    let box = document.getElementById('time')
+    let start = document.getElementById('startBtn')
+    let stop = document.getElementById('stopBtn')
+
+    start.addEventListener('click', () => {
+        start.disabled = true
+        stop.disabled = false
+
+        let minutes = 0
+        let seconds = 0
+        box.textContent = (minutes < 10 ? '0' + minutes : minutes) + ':' + (seconds < 10 ? '0' + seconds : seconds);
+        let interval = setInterval(() => {
+            if (seconds >= 59) {
+                seconds = -1
+                minutes++
+            }
+            seconds++
+
+            box.textContent = (minutes < 10 ? '0' + minutes : minutes) + ':' + (seconds < 10 ? '0' + seconds : seconds);
+
+        }, 1000);
+        stop.addEventListener('click', () =>{
+            clearInterval(interval)
+            start.disabled = false
+            stop.disabled = true
+            let textContentTokens = box.textContent.split(':')
+            let minutes = Number(textContentTokens[0])
+            let seconds = Number(textContentTokens[1])
+            box.textContent = (minutes < 10 ? '0' + minutes : minutes) + ':' + (seconds < 10 ? '0' + seconds : seconds);
+        })
+
+
+    })
+
+
+}
+</script>
+
+</body>
+</html>
