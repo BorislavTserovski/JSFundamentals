@@ -14,44 +14,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FormValidation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery/FormValidation.html">
+      <file leaf-file-name="DOMSearch.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jQuery/DOMSearch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="40" />
+            <state relative-caret-position="192">
+              <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dom-search.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jQuery/dom-search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
               <folding>
-                <element signature="n#style#0;n#fieldset#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1519207712968" expanded="true" signature="374:395" ph="..." />
+                <marker date="1519207712968" expanded="true" signature="993:1071" ph="..." />
+                <marker date="1519207712968" expanded="true" signature="994:1071" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formValidation.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jQuery/formValidation.js">
+      <file leaf-file-name="FormValidation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jQuery/FormValidation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Aggregation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AdvancedFunctions/Aggregation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+            <state relative-caret-position="436">
+              <caret line="38" column="39" lean-forward="false" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -62,8 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -74,9 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exam1102/Third.js" />
-        <option value="$PROJECT_DIR$/Exam1102/Fourth.js" />
-        <option value="$PROJECT_DIR$/DOM/SumNumbers.html" />
         <option value="$PROJECT_DIR$/DOM/ShowMore.html" />
         <option value="$PROJECT_DIR$/DOM/ColorizeTable.html" />
         <option value="$PROJECT_DIR$/DOM/ExtractParenthesis.html" />
@@ -123,8 +111,11 @@
         <option value="$PROJECT_DIR$/jQuery/BookGenerator.html" />
         <option value="$PROJECT_DIR$/jQuery/FormValidation.html" />
         <option value="$PROJECT_DIR$/jQuery/style.css" />
-        <option value="$PROJECT_DIR$/AdvancedFunctions/Aggregation.js" />
         <option value="$PROJECT_DIR$/jQuery/formValidation.js" />
+        <option value="$PROJECT_DIR$/AdvancedFunctions/Aggregation.js" />
+        <option value="$PROJECT_DIR$/AdvancedFunctions/CurrencyFormat.js" />
+        <option value="$PROJECT_DIR$/jQuery/DOMSearch.html" />
+        <option value="$PROJECT_DIR$/jQuery/dom-search.js" />
       </list>
     </option>
   </component>
@@ -158,8 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,10 +156,22 @@
               <item name="JSFundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSFundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JSFundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSFundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="jQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,26 +201,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Fourth.js">
+  <component name="RunManager" selected="Node.js.CurrencyFormat.js">
+    <configuration name="Aggregation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Aggregation.js" working-dir="$PROJECT_DIR$/AdvancedFunctions" />
+    <configuration name="CurrencyFormat.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="CurrencyFormat.js" working-dir="$PROJECT_DIR$/AdvancedFunctions" />
     <configuration name="First.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="First.js" working-dir="$PROJECT_DIR$/Exam1102" />
     <configuration name="Fourth.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Fourth.js" working-dir="$PROJECT_DIR$/Exam1102" />
-    <configuration name="Repeat.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Repeat.js" working-dir="$PROJECT_DIR$/RegexAndString" />
     <configuration name="Second.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Second.js" working-dir="$PROJECT_DIR$/Exam1102" />
-    <configuration name="TheHungryProgrammer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="TheHungryProgrammer.js" working-dir="$PROJECT_DIR$/ExamPrep" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Repeat.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.TheHungryProgrammer.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.First.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Second.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.Fourth.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.First.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Second.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Fourth.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Aggregation.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.CurrencyFormat.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.Fourth.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Second.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.First.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.TheHungryProgrammer.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Repeat.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.CurrencyFormat.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Aggregation.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Fourth.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Second.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.First.js" />
       </list>
     </recent_temporary>
   </component>
@@ -262,11 +263,13 @@
       <workItem from="1519059705325" duration="7361000" />
       <workItem from="1519108511048" duration="8691000" />
       <workItem from="1519125358673" duration="8583000" />
+      <workItem from="1519145319711" duration="5517000" />
+      <workItem from="1519195670551" duration="9853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135930000" />
+    <option name="totallyTimeSpent" value="151300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -307,21 +310,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exam1102/Third.js" />
-    <entry file="file://$PROJECT_DIR$/Exam1102/Second.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/SumNumbers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DOM/ShowMore.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -397,13 +385,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/AddDelete.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -625,38 +606,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdvancedFunctions/Aggregation.js">
+    <entry file="file://$PROJECT_DIR$/jQuery/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="119">
+          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/style.css">
+    <entry file="file://$PROJECT_DIR$/AdvancedFunctions/CurrencyFormat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedFunctions/Aggregation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/formValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/DOMSearch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuery/FormValidation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#fieldset#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="436">
+          <caret line="38" column="39" lean-forward="false" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/formValidation.js">
+    <entry file="file://$PROJECT_DIR$/DOM/AddDelete.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="153">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/dom-search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <marker date="1519207712968" expanded="true" signature="374:395" ph="..." />
+            <marker date="1519207712968" expanded="true" signature="993:1071" ph="..." />
+            <marker date="1519207712968" expanded="true" signature="994:1071" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
