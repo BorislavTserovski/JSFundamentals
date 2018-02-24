@@ -14,35 +14,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DOMSearch.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery/DOMSearch.html">
+      <file leaf-file-name="ArgumentInfo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdvancedFunctions/ArgumentInfo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            <state relative-caret-position="170">
+              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dom-search.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jQuery/dom-search.js">
+      <file leaf-file-name="PersonalBMI.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdvancedFunctions/PersonalBMI.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-              <folding>
-                <marker date="1519207712968" expanded="true" signature="374:395" ph="..." />
-                <marker date="1519207712968" expanded="true" signature="993:1071" ph="..." />
-                <marker date="1519207712968" expanded="true" signature="994:1071" ph="..." />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormValidation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery/FormValidation.html">
+      <file leaf-file-name="VectorMath.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdvancedFunctions/VectorMath.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="38" column="39" lean-forward="false" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderRectangles.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectComposition/OrderRectangles.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fibbonaci.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectComposition/Fibbonaci.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListProccessor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ObjectComposition/ListProccessor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cars.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ObjectComposition/Cars.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,15 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DOM/ShowMore.html" />
-        <option value="$PROJECT_DIR$/DOM/ColorizeTable.html" />
-        <option value="$PROJECT_DIR$/DOM/ExtractParenthesis.html" />
-        <option value="$PROJECT_DIR$/DOM/ExtractParenthesis.js" />
-        <option value="$PROJECT_DIR$/DOM/SumTable.html" />
-        <option value="$PROJECT_DIR$/DOM/CollectList.html" />
-        <option value="$PROJECT_DIR$/DOM/Countdown.html" />
-        <option value="$PROJECT_DIR$/DOM/ListOfItems.html" />
-        <option value="$PROJECT_DIR$/DOM/AddDelete.html" />
         <option value="$PROJECT_DIR$/DOM/DeleteFromTable.html" />
         <option value="$PROJECT_DIR$/DOM/Stopwatch.html" />
         <option value="$PROJECT_DIR$/DOM/gradient.css" />
@@ -116,6 +143,15 @@
         <option value="$PROJECT_DIR$/AdvancedFunctions/CurrencyFormat.js" />
         <option value="$PROJECT_DIR$/jQuery/DOMSearch.html" />
         <option value="$PROJECT_DIR$/jQuery/dom-search.js" />
+        <option value="$PROJECT_DIR$/AdvancedFunctions/SortArray.js" />
+        <option value="$PROJECT_DIR$/AdvancedFunctions/ArgumentInfo.js" />
+        <option value="$PROJECT_DIR$/AdvancedFunctions/FunctionalSum.js" />
+        <option value="$PROJECT_DIR$/AdvancedFunctions/PersonalBMI.js" />
+        <option value="$PROJECT_DIR$/AdvancedFunctions/VectorMath.js" />
+        <option value="$PROJECT_DIR$/ObjectComposition/OrderRectangles.js" />
+        <option value="$PROJECT_DIR$/ObjectComposition/Fibbonaci.js" />
+        <option value="$PROJECT_DIR$/ObjectComposition/ListProccessor.js" />
+        <option value="$PROJECT_DIR$/ObjectComposition/Cars.js" />
       </list>
     </option>
   </component>
@@ -149,6 +185,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,22 +194,10 @@
               <item name="JSFundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSFundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JSFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSFundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="DOM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSFundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="jQuery" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,26 +227,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.CurrencyFormat.js">
-    <configuration name="Aggregation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Aggregation.js" working-dir="$PROJECT_DIR$/AdvancedFunctions" />
-    <configuration name="CurrencyFormat.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="CurrencyFormat.js" working-dir="$PROJECT_DIR$/AdvancedFunctions" />
-    <configuration name="First.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="First.js" working-dir="$PROJECT_DIR$/Exam1102" />
-    <configuration name="Fourth.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Fourth.js" working-dir="$PROJECT_DIR$/Exam1102" />
-    <configuration name="Second.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="Second.js" working-dir="$PROJECT_DIR$/Exam1102" />
+  <component name="RunManager" selected="Node.js.ListProccessor.js">
+    <configuration name="FunctionalSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="FunctionalSum.js" working-dir="$PROJECT_DIR$/AdvancedFunctions" />
+    <configuration name="ListProccessor.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="ListProccessor.js" working-dir="$PROJECT_DIR$/ObjectComposition" />
+    <configuration name="OrderRectangles.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="OrderRectangles.js" working-dir="$PROJECT_DIR$/ObjectComposition" />
+    <configuration name="PersonalBMI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="PersonalBMI.js" working-dir="$PROJECT_DIR$/AdvancedFunctions" />
+    <configuration name="VectorMath.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="VectorMath.js" working-dir="$PROJECT_DIR$/AdvancedFunctions" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.First.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.Second.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Fourth.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Aggregation.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.CurrencyFormat.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.FunctionalSum.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.PersonalBMI.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.VectorMath.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.OrderRectangles.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.ListProccessor.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.CurrencyFormat.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Aggregation.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Fourth.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Second.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.First.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ListProccessor.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.OrderRectangles.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.VectorMath.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.PersonalBMI.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.FunctionalSum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -265,16 +291,20 @@
       <workItem from="1519125358673" duration="8583000" />
       <workItem from="1519145319711" duration="5517000" />
       <workItem from="1519195670551" duration="9853000" />
+      <workItem from="1519315160345" duration="4657000" />
+      <workItem from="1519324618638" duration="1887000" />
+      <workItem from="1519369450012" duration="7924000" />
+      <workItem from="1519452792588" duration="5382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151300000" />
+    <option name="totallyTimeSpent" value="171150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
@@ -310,63 +340,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DOM/ShowMore.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/ExtractParenthesis.html" />
-    <entry file="file://$PROJECT_DIR$/DOM/ExtractParenthesis.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/SumTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/ColorizeTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="21" column="58" lean-forward="false" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/CollectList.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/ListOfItems.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/DeleteFromTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="20" column="68" lean-forward="false" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/css/gradient.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DOM/gradient.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -602,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -610,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,23 +603,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/DOMSearch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuery/FormValidation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
+        <state relative-caret-position="646">
           <caret line="38" column="39" lean-forward="false" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,15 +621,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery/DOMSearch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="6" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jQuery/dom-search.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        <state relative-caret-position="323">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding>
-            <marker date="1519207712968" expanded="true" signature="374:395" ph="..." />
-            <marker date="1519207712968" expanded="true" signature="993:1071" ph="..." />
-            <marker date="1519207712968" expanded="true" signature="994:1071" ph="..." />
+            <marker date="1519326462836" expanded="true" signature="381:402" ph="..." />
+            <marker date="1519326462836" expanded="true" signature="1357:1435" ph="..." />
+            <marker date="1519326462836" expanded="true" signature="1358:1435" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedFunctions/SortArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedFunctions/FunctionalSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedFunctions/ArgumentInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedFunctions/PersonalBMI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdvancedFunctions/VectorMath.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectComposition/OrderRectangles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectComposition/Fibbonaci.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectComposition/ListProccessor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectComposition/Cars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
