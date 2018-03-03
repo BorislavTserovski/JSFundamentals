@@ -13,7 +13,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Rectangle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Rectangle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Person.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetPeople.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/GetPeople.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/Circle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PointDistance.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classes/PointDistance.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cards.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classes/Cards.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,19 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jQuery/TextFromList.html" />
-        <option value="$PROJECT_DIR$/jQuery/extractText.js" />
-        <option value="$PROJECT_DIR$/jQuery/SearchInList.html" />
-        <option value="$PROJECT_DIR$/jQuery/search.js" />
-        <option value="$PROJECT_DIR$/jQuery/CountriesTable.html" />
-        <option value="$PROJECT_DIR$/jQuery/LinkButtons.html" />
-        <option value="$PROJECT_DIR$/jQuery/link-buttons.css" />
-        <option value="$PROJECT_DIR$/jQuery/link-buttons.js" />
-        <option value="$PROJECT_DIR$/jQuery/initialize-table.js" />
-        <option value="$PROJECT_DIR$/jQuery/SelectableTowns.html" />
-        <option value="$PROJECT_DIR$/jQuery/select-towns.js" />
-        <option value="$PROJECT_DIR$/jQuery/IncrementCounter.html" />
-        <option value="$PROJECT_DIR$/jQuery/incrementCounter.js" />
         <option value="$PROJECT_DIR$/jQuery/Timer.html" />
         <option value="$PROJECT_DIR$/jQuery/timer.js" />
         <option value="$PROJECT_DIR$/jQuery/book-generator.js" />
@@ -81,6 +129,19 @@
         <option value="$PROJECT_DIR$/test/symmetry-tests-mocha.js" />
         <option value="$PROJECT_DIR$/test/rgb-to-hex-mocha-tests.js" />
         <option value="$PROJECT_DIR$/test/calculator-mocha-tests.js" />
+        <option value="$PROJECT_DIR$/UnitTesting/RequestValidator.js" />
+        <option value="$PROJECT_DIR$/test/EvenOrOdd.js" />
+        <option value="$PROJECT_DIR$/test/CharLookup.js" />
+        <option value="$PROJECT_DIR$/test/MathEnforcer.js" />
+        <option value="$PROJECT_DIR$/UnitTesting/SharedObject.html" />
+        <option value="$PROJECT_DIR$/UnitTesting/sharedObject.js" />
+        <option value="$PROJECT_DIR$/test/SharedObject.js" />
+        <option value="$PROJECT_DIR$/Classes/Rectangle.js" />
+        <option value="$PROJECT_DIR$/Classes/Person.js" />
+        <option value="$PROJECT_DIR$/Classes/GetPeople.js" />
+        <option value="$PROJECT_DIR$/Classes/Circle.js" />
+        <option value="$PROJECT_DIR$/Classes/PointDistance.js" />
+        <option value="$PROJECT_DIR$/Classes/Cards.js" />
       </list>
     </option>
   </component>
@@ -114,7 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,11 +182,17 @@
               <item name="JSFundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSFundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JSFundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,12 +224,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Mocha-tests">
+  <component name="RunManager" selected="Node.js.PointDistance.js">
     <configuration name="DeckOfCards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="DeckOfCards.js" working-dir="$PROJECT_DIR$/UnitTesting" />
+    <configuration name="GetPeople.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="GetPeople.js" working-dir="$PROJECT_DIR$/Classes" />
     <configuration name="PlayingCards.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="PlayingCards.js" working-dir="$PROJECT_DIR$/UnitTesting" />
-    <configuration name="StringExtension.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="StringExtension.js" working-dir="$PROJECT_DIR$/ObjectComposition" />
-    <configuration name="SubSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="SubSum.js" working-dir="$PROJECT_DIR$/UnitTesting" />
-    <configuration name="domTraversal.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="domTraversal.js" working-dir="$PROJECT_DIR$/ObjectComposition" />
+    <configuration name="PointDistance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="PointDistance.js" working-dir="$PROJECT_DIR$/Classes" />
+    <configuration name="RequestValidator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="RequestValidator.js" working-dir="$PROJECT_DIR$/UnitTesting" />
     <configuration name="Mocha-tests" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -178,19 +244,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Mocha.Mocha-tests" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.StringExtension.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.domTraversal.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.SubSum.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.PlayingCards.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.DeckOfCards.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.PlayingCards.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.DeckOfCards.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.RequestValidator.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.GetPeople.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.PointDistance.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.DeckOfCards.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.PlayingCards.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.SubSum.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.domTraversal.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.StringExtension.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.PointDistance.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.GetPeople.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.RequestValidator.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.DeckOfCards.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.PlayingCards.js" />
       </list>
     </recent_temporary>
   </component>
@@ -246,48 +312,53 @@
       <workItem from="1519740816253" duration="1070000" />
       <workItem from="1519741972479" duration="2269000" />
       <workItem from="1519799320955" duration="3164000" />
+      <workItem from="1519805431841" duration="142000" />
+      <workItem from="1519928535530" duration="8866000" />
+      <workItem from="1519969581226" duration="3484000" />
+      <workItem from="1519992052799" duration="10738000" />
+      <workItem from="1520101808122" duration="1232000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 12m 29s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 17h 55m 52s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 13m 13s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 18h 02m 09s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 13m 49s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 18h 06m 35s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 15m 31s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 18h 10m 33s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 16m 28s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 18h 11m 13s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 17m 41s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 18h 12m 25s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 18m 36s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 18h 16m 04s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 19m 02s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 18h 17m 06s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 19m 17s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 18h 20m 29s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Mocha-tests - 2018.02.28 at 09h 20m 31s.xml">
+    <history-entry file="Mocha-tests - 2018.03.02 at 19h 21m 22s.xml">
       <configuration name="Mocha-tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203180000" />
+    <option name="totallyTimeSpent" value="227642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25297618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25297618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
@@ -338,102 +409,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jQuery/extractText.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/CountriesTable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/initialize-table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/IncrementCounter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/select-towns.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/SelectableTowns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DOM/Countdown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="76" lean-forward="false" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/timer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/Timer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/incrementCounter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/BookGenerator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery/book-generator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DOM/dropdown.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -600,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,15 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnitTesting/DeckOfCards.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -662,14 +630,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/calculator-mocha-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTesting/DeckOfCards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTesting/RequestValidator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="65" lean-forward="false" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/rgb-to-hex-mocha-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="45" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/MathEnforcer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/EvenOrOdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/symmetry-tests-mocha.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="38" selection-end-column="2" />
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -678,22 +687,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/CharLookup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/rgb-to-hex-mocha-tests.js">
+    <entry file="file://$PROJECT_DIR$/UnitTesting/SharedObject.html" />
+    <entry file="file://$PROJECT_DIR$/test/SharedObject.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="13" column="12" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="45" selection-end-column="2" />
+        <state relative-caret-position="-1853">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/calculator-mocha-tests.js">
+    <entry file="file://$PROJECT_DIR$/UnitTesting/sharedObject.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Rectangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/GetPeople.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Circle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/PointDistance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Cards.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
